@@ -1,0 +1,9 @@
+*.venv
+__pycache__
+FLUX.1-schnell-4bit
+output/
+*.safetensors
+*.egg-info
+*.vscode/
+*.gradio/
+*.nsys-rep

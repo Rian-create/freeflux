@@ -1,0 +1,3 @@
+Put your lora here.
+
+If you download the lora from the civiti AI, you could use the [dump_tensors.py](../scripts/dump_tensors.py) to inspect the content of the lora. If the lora is starting with a "unet" keyword the process will convert the lora into the one diffusers can understand by using the freeflux.lora.convert_sd_scripts_to_ai_toolkit, you can also use the [convert_flux_lora.py](../scripts/convert_flux_lora.py) to convert the lora offline and use it.

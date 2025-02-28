@@ -1,0 +1,21 @@
+bitsandbytes>=0.43.1
+
+# For the schnell 4bit model, 0.31.0 has breaking changes 
+# Can't get attribute 'EmbedND' on <module 'diffusers.models.transformers.transformer_flux'
+diffusers<0.31.0,>=0.30.0 
+
+torch <= 2.4.0 # _weight_int8pack_mm does not support CPU backend afterwards not sure why
+
+hqq @ git+https://github.com/mobiusml/hqq@306e30d
+transformers>=4.44.0
+#needed by t5 tokenizer
+sentencepiece
+protobuf
+gradio
+
+# for schnell 4bit model
+optimum-quanto<=0.2.4 #for schnell 4bit model, version 0.2.5 removed the torch_dispatch for QTensor
+
+# ai prompts generation
+openai
+peft
